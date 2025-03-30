@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Navy" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #4a12f0;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 10px;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-1" d="M386.9,326.47v-139.71c0-17.02-13.79-30.81-30.81-30.81h-5.28"/>
+    <path class="cls-1" d="M113.1,326.47v-139.71c0-17.02,13.79-30.81,30.81-30.81h6.61"/>
+    <path class="cls-1" d="M114.47,390.51h271.06c20.9,0,37.85-16.95,37.85-37.85H76.62c0,20.9,16.95,37.85,37.85,37.85Z"/>
+  </g>
+  <g>
+    <polyline class="cls-1" points="228.11 267.77 207.82 289.97 196.46 276.68"/>
+    <g>
+      <path class="cls-1" d="M164.8,325.48V121.77c0-6.78,5.5-12.28,12.28-12.28h95.77c3.26,0,6.38,1.29,8.68,3.6l51.8,51.8c3.49,3.48,5.44,8.21,5.44,13.14v147.45"/>
+      <polyline class="cls-1" points="335.05 170.33 276.92 170.33 276.92 134.05"/>
+    </g>
+    <line class="cls-1" x1="244.69" y1="289.97" x2="304.78" y2="289.97"/>
+    <polyline class="cls-1" points="228.11 225.32 207.82 247.52 196.46 234.23"/>
+    <line class="cls-1" x1="244.69" y1="247.52" x2="304.78" y2="247.52"/>
+    <polyline class="cls-1" points="228.11 182.87 207.82 205.07 196.46 191.79"/>
+    <line class="cls-1" x1="244.69" y1="205.07" x2="304.78" y2="205.07"/>
+  </g>
+</svg>
