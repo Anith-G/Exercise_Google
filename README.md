@@ -22,7 +22,9 @@ public static void findNeedles(String haystack, String[] needles)
 1. Finally, it prints the count of each needle.
 
 
-# Example Usage: Valid Input
+# Example Usage
+
+## Example 1: Valid Input
 
 ``` Shell
 public class Main {
@@ -33,12 +35,22 @@ public class Main {
     }
 }
 ```
-# Output:
+## Output:
 
 ``` Shell
 fox: 2
 dog: 1
 cat: 0
+```
+## Example 2: Invalid Input (Exceeding the Word Limit)
+``` Shell
+String text = "The quick brown fox jumps over the lazy dog.";
+String[] words = {"quick", "brown", "fox", "jumps", "lazy", "dog"};
+findNeedles(text, words);
+```
+## Output
+``` Shell
+Too many words!
 ```
 
 # Code Improvement Suggestions
